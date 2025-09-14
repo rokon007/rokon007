@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rokon  
+# Hi 👋, I'm Rezaul Karim  
 💻 Full-stack Web Developer | Laravel & Livewire Specialist  
 
 ---
