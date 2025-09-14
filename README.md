@@ -39,6 +39,6 @@ Passionate **Full-stack Web Developer** specialized in **Laravel & Livewire**. B
 ### 📞 Contact
 - 📧 Email: **rezaulkrm85@gmail.com**  
 - 💬 WhatsApp: **+8801717524792**  
-- 💼 LinkedIn: [linkedin.com/in/rezaulkarim](https://linkedin.com/in/rezaulkarim)  
+- 💼 LinkedIn: [linkedin.com/in/rezaulkarim](https://linkedin.com/in/rezaul-karim-sarker-5826a229)  
 - 🌐 Portfolio: [rokon007.github.io](https://rokon007.github.io)  
 - 🎯 Fiverr: [fiverr.com/rokon007](https://fiverr.com/rokon007)
