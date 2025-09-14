@@ -32,4 +32,14 @@ Specialized in **Laravel 10 & Livewire 3**, I love solving real-world problems t
 
 ### 📊 GitHub Stats
 ![Rezaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokon007&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokon007&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokon007&layout=compact&theme=radical)  
+
+---
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=rokon007&theme=radical&no-frame=true&margin-w=10)
+
+---
+
+### 👀 Profile Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=rokon007&label=Profile%20Views&color=blue&style=flat)
