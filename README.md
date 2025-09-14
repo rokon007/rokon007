@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Rokon007%20|%20Full-stack%20Developer&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Rokon%20|%20Full-stack%20Developer&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 # 👨‍💻 About Me
 Passionate **Full-stack Web Developer** specialized in **Laravel & Livewire**. Building modern, scalable web apps with clean code and intuitive UX.
